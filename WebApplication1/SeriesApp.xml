@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SeriesApp</name>
+    </assembly>
+    <members>
+        <member name="M:SeriesApp.Controllers.SeriesController.Registrar(SeriesApp.Models.SeriesViewModelsInput)">
+            <summary>
+            teste
+            </summary>
+            <param name="seriesViewModelsInput">View Model de Registro de Login</param>
+            <returns></returns>
+        </member>
+        <member name="M:SeriesApp.Controllers.UsuarioController.Logar(SeriesApp.Models.Usuarios.LoginViewModelInput)">
+            <summary>
+            Login
+            </summary>
+            <param name="loginViewModelInput"/>
+            <returns></returns>
+        </member>
+        <member name="M:SeriesApp.Controllers.UsuarioController.Registrar(SeriesApp.Models.Usuarios.RegistroViewModelInput)">
+            <summary>
+            Registro usuario
+            </summary>
+            <param name="registroViewModelInput">View Model de Registro de Login</param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
